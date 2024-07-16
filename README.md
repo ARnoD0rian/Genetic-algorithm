@@ -15,3 +15,4 @@ https://github.com/ARnoD0rian/Genetic-algorithm/blob/main/README/recomendations/
 ![research 4](https://github.com/ARnoD0rian/Genetic-algorithm/blob/main/README/research/4.png)
 ![research 5](https://github.com/ARnoD0rian/Genetic-algorithm/blob/main/README/research/5.png)
 
+
