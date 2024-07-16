@@ -1,7 +1,6 @@
 # Генетический алгоритм с вещественным кодированием
 
 ## Рекомендации для пользователя
-https://github.com/ARnoD0rian/Genetic-algorithm/blob/main/README/recomendations/1.png
 ![recomendation 1](https://github.com/ARnoD0rian/Genetic-algorithm/blob/main/README/recomendations/1.png) 
 ![recomendation 2](https://github.com/ARnoD0rian/Genetic-algorithm/blob/main/README/recomendations/2.png) 
 ![recomendation 3](https://github.com/ARnoD0rian/Genetic-algorithm/blob/main/README/recomendations/3.png) 
